@@ -1,6 +1,8 @@
 {
     "name": {
+        "salutation": "Mr.",
         "first": "luke",
+        "middle": "W",
         "last": "Stephenson"
     }
 }
